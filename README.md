@@ -6,6 +6,7 @@ A fully featured PHP & MySQL web application with **advanced features and final 
 
 ## 🛠 Tech Stack
 
+
 - PHP 8+ (PDO, file uploads, sessions)
 - MySQL
 - CSS3 (shared stylesheet from Task 4)
