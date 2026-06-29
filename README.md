@@ -122,22 +122,22 @@ Handles errors gracefully — shows friendly message if API is unreachable.
 ## 📸 Screenshots
 
 ### Dashboard — Weather API + Role Badge
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Profile Page — Avatar Upload
-![Profile](screenshots/profile.png)
+![Profile](profile.png)
 
 ### Manage Users — Admin Only (with Role column)
-![Manage Users](screenshots/manage-users.png)
+![Manage Users](manage-users.png)
 
 ### Register Page
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Change Password
-![Change Password](screenshots/change-password.png)
+![Change Password](change-password.png)
 
 ---
 
